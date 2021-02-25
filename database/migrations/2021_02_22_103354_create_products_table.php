@@ -23,6 +23,7 @@ class CreateProductsTable extends Migration
         });
     }
 
+    //pakeitimails
 
     /**
      * Reverse the migrations.
